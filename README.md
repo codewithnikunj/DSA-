@@ -25,6 +25,7 @@ Share the progress in the data structure
 ## String
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/codewithnikunj/DSA-/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/codewithnikunj/DSA-/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/codewithnikunj/DSA-/tree/master/0344-reverse-string) |
 ## Math
@@ -35,5 +36,6 @@ Share the progress in the data structure
 ## Two Pointers
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/codewithnikunj/DSA-/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/codewithnikunj/DSA-/tree/master/0344-reverse-string) |
 <!---LeetCode Topics End-->
