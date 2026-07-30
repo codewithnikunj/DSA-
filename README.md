@@ -26,9 +26,14 @@ Share the progress in the data structure
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/codewithnikunj/DSA-/tree/master/0242-valid-anagram) |
+| [0344-reverse-string](https://github.com/codewithnikunj/DSA-/tree/master/0344-reverse-string) |
 ## Math
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/codewithnikunj/DSA-/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/codewithnikunj/DSA-/tree/master/0009-palindrome-number) |
+## Two Pointers
+|  |
+| ------- |
+| [0344-reverse-string](https://github.com/codewithnikunj/DSA-/tree/master/0344-reverse-string) |
 <!---LeetCode Topics End-->
