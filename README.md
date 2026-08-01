@@ -6,6 +6,7 @@ Share the progress in the data structure
 ## Array
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/codewithnikunj/DSA-/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/codewithnikunj/DSA-/tree/master/0217-contains-duplicate) |
 | [1929-concatenation-of-array](https://github.com/codewithnikunj/DSA-/tree/master/1929-concatenation-of-array) |
 ## Simulation
@@ -33,9 +34,11 @@ Share the progress in the data structure
 | ------- |
 | [0007-reverse-integer](https://github.com/codewithnikunj/DSA-/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/codewithnikunj/DSA-/tree/master/0009-palindrome-number) |
+| [0189-rotate-array](https://github.com/codewithnikunj/DSA-/tree/master/0189-rotate-array) |
 ## Two Pointers
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/codewithnikunj/DSA-/tree/master/0125-valid-palindrome) |
+| [0189-rotate-array](https://github.com/codewithnikunj/DSA-/tree/master/0189-rotate-array) |
 | [0344-reverse-string](https://github.com/codewithnikunj/DSA-/tree/master/0344-reverse-string) |
 <!---LeetCode Topics End-->
