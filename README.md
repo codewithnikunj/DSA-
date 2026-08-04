@@ -8,6 +8,7 @@ Share the progress in the data structure
 | ------- |
 | [0189-rotate-array](https://github.com/codewithnikunj/DSA-/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/codewithnikunj/DSA-/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/codewithnikunj/DSA-/tree/master/0268-missing-number) |
 | [1929-concatenation-of-array](https://github.com/codewithnikunj/DSA-/tree/master/1929-concatenation-of-array) |
 ## Simulation
 |  |
@@ -18,11 +19,13 @@ Share the progress in the data structure
 | ------- |
 | [0217-contains-duplicate](https://github.com/codewithnikunj/DSA-/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/codewithnikunj/DSA-/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/codewithnikunj/DSA-/tree/master/0268-missing-number) |
 ## Sorting
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/codewithnikunj/DSA-/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/codewithnikunj/DSA-/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/codewithnikunj/DSA-/tree/master/0268-missing-number) |
 ## String
 |  |
 | ------- |
@@ -35,10 +38,19 @@ Share the progress in the data structure
 | [0007-reverse-integer](https://github.com/codewithnikunj/DSA-/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/codewithnikunj/DSA-/tree/master/0009-palindrome-number) |
 | [0189-rotate-array](https://github.com/codewithnikunj/DSA-/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/codewithnikunj/DSA-/tree/master/0268-missing-number) |
 ## Two Pointers
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/codewithnikunj/DSA-/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/codewithnikunj/DSA-/tree/master/0189-rotate-array) |
 | [0344-reverse-string](https://github.com/codewithnikunj/DSA-/tree/master/0344-reverse-string) |
+## Binary Search
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/codewithnikunj/DSA-/tree/master/0268-missing-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/codewithnikunj/DSA-/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
