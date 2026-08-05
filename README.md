@@ -9,6 +9,7 @@ Share the progress in the data structure
 | [0189-rotate-array](https://github.com/codewithnikunj/DSA-/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/codewithnikunj/DSA-/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/codewithnikunj/DSA-/tree/master/0268-missing-number) |
+| [0283-move-zeroes](https://github.com/codewithnikunj/DSA-/tree/master/0283-move-zeroes) |
 | [1929-concatenation-of-array](https://github.com/codewithnikunj/DSA-/tree/master/1929-concatenation-of-array) |
 ## Simulation
 |  |
@@ -44,6 +45,7 @@ Share the progress in the data structure
 | ------- |
 | [0125-valid-palindrome](https://github.com/codewithnikunj/DSA-/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/codewithnikunj/DSA-/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/codewithnikunj/DSA-/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/codewithnikunj/DSA-/tree/master/0344-reverse-string) |
 ## Binary Search
 |  |
