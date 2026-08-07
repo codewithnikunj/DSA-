@@ -6,6 +6,7 @@ Share the progress in the data structure
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/codewithnikunj/DSA-/tree/master/0014-longest-common-prefix) |
 | [0189-rotate-array](https://github.com/codewithnikunj/DSA-/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/codewithnikunj/DSA-/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/codewithnikunj/DSA-/tree/master/0268-missing-number) |
@@ -30,6 +31,7 @@ Share the progress in the data structure
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/codewithnikunj/DSA-/tree/master/0014-longest-common-prefix) |
 | [0125-valid-palindrome](https://github.com/codewithnikunj/DSA-/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/codewithnikunj/DSA-/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/codewithnikunj/DSA-/tree/master/0344-reverse-string) |
@@ -55,4 +57,8 @@ Share the progress in the data structure
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/codewithnikunj/DSA-/tree/master/0268-missing-number) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/codewithnikunj/DSA-/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
