@@ -11,6 +11,7 @@ Share the progress in the data structure
 | [0217-contains-duplicate](https://github.com/codewithnikunj/DSA-/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/codewithnikunj/DSA-/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/codewithnikunj/DSA-/tree/master/0283-move-zeroes) |
+| [0485-max-consecutive-ones](https://github.com/codewithnikunj/DSA-/tree/master/0485-max-consecutive-ones) |
 | [1929-concatenation-of-array](https://github.com/codewithnikunj/DSA-/tree/master/1929-concatenation-of-array) |
 ## Simulation
 |  |
