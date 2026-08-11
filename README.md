@@ -7,6 +7,7 @@ Share the progress in the data structure
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/codewithnikunj/DSA-/tree/master/0014-longest-common-prefix) |
+| [0035-search-insert-position](https://github.com/codewithnikunj/DSA-/tree/master/0035-search-insert-position) |
 | [0189-rotate-array](https://github.com/codewithnikunj/DSA-/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/codewithnikunj/DSA-/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/codewithnikunj/DSA-/tree/master/0268-missing-number) |
@@ -54,6 +55,7 @@ Share the progress in the data structure
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/codewithnikunj/DSA-/tree/master/0035-search-insert-position) |
 | [0268-missing-number](https://github.com/codewithnikunj/DSA-/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/codewithnikunj/DSA-/tree/master/0704-binary-search) |
 ## Bit Manipulation
