@@ -56,6 +56,7 @@ Share the progress in the data structure
 | [0069-sqrtx](https://github.com/codewithnikunj/DSA-/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/codewithnikunj/DSA-/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/codewithnikunj/DSA-/tree/master/0268-missing-number) |
+| [0509-fibonacci-number](https://github.com/codewithnikunj/DSA-/tree/master/0509-fibonacci-number) |
 ## Two Pointers
 |  |
 | ------- |
@@ -100,4 +101,16 @@ Share the progress in the data structure
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/codewithnikunj/DSA-/tree/master/0796-rotate-string) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/codewithnikunj/DSA-/tree/master/0509-fibonacci-number) |
+## Recursion
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/codewithnikunj/DSA-/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/codewithnikunj/DSA-/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
