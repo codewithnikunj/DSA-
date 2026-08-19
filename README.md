@@ -46,6 +46,7 @@ Share the progress in the data structure
 | ------- |
 | [0014-longest-common-prefix](https://github.com/codewithnikunj/DSA-/tree/master/0014-longest-common-prefix) |
 | [0125-valid-palindrome](https://github.com/codewithnikunj/DSA-/tree/master/0125-valid-palindrome) |
+| [0151-reverse-words-in-a-string](https://github.com/codewithnikunj/DSA-/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/codewithnikunj/DSA-/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/codewithnikunj/DSA-/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/codewithnikunj/DSA-/tree/master/0344-reverse-string) |
@@ -65,6 +66,7 @@ Share the progress in the data structure
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/codewithnikunj/DSA-/tree/master/0125-valid-palindrome) |
+| [0151-reverse-words-in-a-string](https://github.com/codewithnikunj/DSA-/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/codewithnikunj/DSA-/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/codewithnikunj/DSA-/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/codewithnikunj/DSA-/tree/master/0344-reverse-string) |
