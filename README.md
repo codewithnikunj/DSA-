@@ -8,6 +8,7 @@ Share the progress in the data structure
 | ------- |
 | [0001-two-sum](https://github.com/codewithnikunj/DSA-/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/codewithnikunj/DSA-/tree/master/0014-longest-common-prefix) |
+| [0015-3sum](https://github.com/codewithnikunj/DSA-/tree/master/0015-3sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/codewithnikunj/DSA-/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/codewithnikunj/DSA-/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/codewithnikunj/DSA-/tree/master/0035-search-insert-position) |
@@ -39,6 +40,7 @@ Share the progress in the data structure
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/codewithnikunj/DSA-/tree/master/0015-3sum) |
 | [0217-contains-duplicate](https://github.com/codewithnikunj/DSA-/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/codewithnikunj/DSA-/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/codewithnikunj/DSA-/tree/master/0268-missing-number) |
@@ -66,6 +68,7 @@ Share the progress in the data structure
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/codewithnikunj/DSA-/tree/master/0015-3sum) |
 | [0125-valid-palindrome](https://github.com/codewithnikunj/DSA-/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/codewithnikunj/DSA-/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/codewithnikunj/DSA-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
