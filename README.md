@@ -16,6 +16,7 @@ Share the progress in the data structure
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/codewithnikunj/DSA-/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/codewithnikunj/DSA-/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/codewithnikunj/DSA-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0169-majority-element](https://github.com/codewithnikunj/DSA-/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/codewithnikunj/DSA-/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/codewithnikunj/DSA-/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/codewithnikunj/DSA-/tree/master/0268-missing-number) |
@@ -32,6 +33,7 @@ Share the progress in the data structure
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/codewithnikunj/DSA-/tree/master/0001-two-sum) |
+| [0169-majority-element](https://github.com/codewithnikunj/DSA-/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/codewithnikunj/DSA-/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/codewithnikunj/DSA-/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/codewithnikunj/DSA-/tree/master/0242-valid-anagram) |
@@ -41,6 +43,7 @@ Share the progress in the data structure
 |  |
 | ------- |
 | [0015-3sum](https://github.com/codewithnikunj/DSA-/tree/master/0015-3sum) |
+| [0169-majority-element](https://github.com/codewithnikunj/DSA-/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/codewithnikunj/DSA-/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/codewithnikunj/DSA-/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/codewithnikunj/DSA-/tree/master/0268-missing-number) |
@@ -132,10 +135,19 @@ Share the progress in the data structure
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/codewithnikunj/DSA-/tree/master/0169-majority-element) |
 | [0387-first-unique-character-in-a-string](https://github.com/codewithnikunj/DSA-/tree/master/0387-first-unique-character-in-a-string) |
 ## Linked List
 |  |
 | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/codewithnikunj/DSA-/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/codewithnikunj/DSA-/tree/master/0237-delete-node-in-a-linked-list) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/codewithnikunj/DSA-/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/codewithnikunj/DSA-/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
