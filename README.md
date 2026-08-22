@@ -123,6 +123,7 @@ Share the progress in the data structure
 ## Recursion
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/codewithnikunj/DSA-/tree/master/0206-reverse-linked-list) |
 | [0509-fibonacci-number](https://github.com/codewithnikunj/DSA-/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
@@ -141,6 +142,7 @@ Share the progress in the data structure
 |  |
 | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/codewithnikunj/DSA-/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0206-reverse-linked-list](https://github.com/codewithnikunj/DSA-/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/codewithnikunj/DSA-/tree/master/0237-delete-node-in-a-linked-list) |
 ## Divide and Conquer
 |  |
