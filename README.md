@@ -78,6 +78,7 @@ Share the progress in the data structure
 | [0189-rotate-array](https://github.com/codewithnikunj/DSA-/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/codewithnikunj/DSA-/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/codewithnikunj/DSA-/tree/master/0344-reverse-string) |
+| [0876-middle-of-the-linked-list](https://github.com/codewithnikunj/DSA-/tree/master/0876-middle-of-the-linked-list) |
 ## Binary Search
 |  |
 | ------- |
@@ -144,6 +145,7 @@ Share the progress in the data structure
 | [0083-remove-duplicates-from-sorted-list](https://github.com/codewithnikunj/DSA-/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0206-reverse-linked-list](https://github.com/codewithnikunj/DSA-/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/codewithnikunj/DSA-/tree/master/0237-delete-node-in-a-linked-list) |
+| [0876-middle-of-the-linked-list](https://github.com/codewithnikunj/DSA-/tree/master/0876-middle-of-the-linked-list) |
 ## Divide and Conquer
 |  |
 | ------- |
