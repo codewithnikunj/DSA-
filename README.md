@@ -24,6 +24,7 @@ Share the progress in the data structure
 | [0485-max-consecutive-ones](https://github.com/codewithnikunj/DSA-/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/codewithnikunj/DSA-/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/codewithnikunj/DSA-/tree/master/0704-binary-search) |
+| [0992-subarrays-with-k-different-integers](https://github.com/codewithnikunj/DSA-/tree/master/0992-subarrays-with-k-different-integers) |
 | [1929-concatenation-of-array](https://github.com/codewithnikunj/DSA-/tree/master/1929-concatenation-of-array) |
 ## Simulation
 |  |
@@ -40,6 +41,7 @@ Share the progress in the data structure
 | [0242-valid-anagram](https://github.com/codewithnikunj/DSA-/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/codewithnikunj/DSA-/tree/master/0268-missing-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/codewithnikunj/DSA-/tree/master/0387-first-unique-character-in-a-string) |
+| [0992-subarrays-with-k-different-integers](https://github.com/codewithnikunj/DSA-/tree/master/0992-subarrays-with-k-different-integers) |
 ## Sorting
 |  |
 | ------- |
@@ -145,6 +147,7 @@ Share the progress in the data structure
 | ------- |
 | [0169-majority-element](https://github.com/codewithnikunj/DSA-/tree/master/0169-majority-element) |
 | [0387-first-unique-character-in-a-string](https://github.com/codewithnikunj/DSA-/tree/master/0387-first-unique-character-in-a-string) |
+| [0992-subarrays-with-k-different-integers](https://github.com/codewithnikunj/DSA-/tree/master/0992-subarrays-with-k-different-integers) |
 ## Linked List
 |  |
 | ------- |
@@ -167,4 +170,8 @@ Share the progress in the data structure
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/codewithnikunj/DSA-/tree/master/0141-linked-list-cycle) |
+## Sliding Window
+|  |
+| ------- |
+| [0992-subarrays-with-k-different-integers](https://github.com/codewithnikunj/DSA-/tree/master/0992-subarrays-with-k-different-integers) |
 <!---LeetCode Topics End-->
