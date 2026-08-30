@@ -42,6 +42,7 @@ Share the progress in the data structure
 | [0242-valid-anagram](https://github.com/codewithnikunj/DSA-/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/codewithnikunj/DSA-/tree/master/0268-missing-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/codewithnikunj/DSA-/tree/master/0387-first-unique-character-in-a-string) |
+| [0451-sort-characters-by-frequency](https://github.com/codewithnikunj/DSA-/tree/master/0451-sort-characters-by-frequency) |
 | [0992-subarrays-with-k-different-integers](https://github.com/codewithnikunj/DSA-/tree/master/0992-subarrays-with-k-different-integers) |
 ## Sorting
 |  |
@@ -51,6 +52,7 @@ Share the progress in the data structure
 | [0217-contains-duplicate](https://github.com/codewithnikunj/DSA-/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/codewithnikunj/DSA-/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/codewithnikunj/DSA-/tree/master/0268-missing-number) |
+| [0451-sort-characters-by-frequency](https://github.com/codewithnikunj/DSA-/tree/master/0451-sort-characters-by-frequency) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/codewithnikunj/DSA-/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## String
 |  |
@@ -62,6 +64,7 @@ Share the progress in the data structure
 | [0242-valid-anagram](https://github.com/codewithnikunj/DSA-/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/codewithnikunj/DSA-/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/codewithnikunj/DSA-/tree/master/0387-first-unique-character-in-a-string) |
+| [0451-sort-characters-by-frequency](https://github.com/codewithnikunj/DSA-/tree/master/0451-sort-characters-by-frequency) |
 | [0796-rotate-string](https://github.com/codewithnikunj/DSA-/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/codewithnikunj/DSA-/tree/master/1021-remove-outermost-parentheses) |
 ## Math
@@ -150,6 +153,7 @@ Share the progress in the data structure
 | ------- |
 | [0169-majority-element](https://github.com/codewithnikunj/DSA-/tree/master/0169-majority-element) |
 | [0387-first-unique-character-in-a-string](https://github.com/codewithnikunj/DSA-/tree/master/0387-first-unique-character-in-a-string) |
+| [0451-sort-characters-by-frequency](https://github.com/codewithnikunj/DSA-/tree/master/0451-sort-characters-by-frequency) |
 | [0992-subarrays-with-k-different-integers](https://github.com/codewithnikunj/DSA-/tree/master/0992-subarrays-with-k-different-integers) |
 ## Linked List
 |  |
@@ -186,4 +190,12 @@ Share the progress in the data structure
 |  |
 | ------- |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/codewithnikunj/DSA-/tree/master/1838-frequency-of-the-most-frequent-element) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/codewithnikunj/DSA-/tree/master/0451-sort-characters-by-frequency) |
+## Bucket Sort
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/codewithnikunj/DSA-/tree/master/0451-sort-characters-by-frequency) |
 <!---LeetCode Topics End-->
