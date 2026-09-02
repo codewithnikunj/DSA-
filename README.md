@@ -73,6 +73,7 @@ Share the progress in the data structure
 | ------- |
 | [0007-reverse-integer](https://github.com/codewithnikunj/DSA-/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/codewithnikunj/DSA-/tree/master/0009-palindrome-number) |
+| [0050-powx-n](https://github.com/codewithnikunj/DSA-/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/codewithnikunj/DSA-/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/codewithnikunj/DSA-/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/codewithnikunj/DSA-/tree/master/0268-missing-number) |
@@ -139,6 +140,7 @@ Share the progress in the data structure
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/codewithnikunj/DSA-/tree/master/0021-merge-two-sorted-lists) |
+| [0050-powx-n](https://github.com/codewithnikunj/DSA-/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/codewithnikunj/DSA-/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/codewithnikunj/DSA-/tree/master/0234-palindrome-linked-list) |
 | [0509-fibonacci-number](https://github.com/codewithnikunj/DSA-/tree/master/0509-fibonacci-number) |
