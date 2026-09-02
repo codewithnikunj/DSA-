@@ -27,6 +27,7 @@ Share the progress in the data structure
 | [0992-subarrays-with-k-different-integers](https://github.com/codewithnikunj/DSA-/tree/master/0992-subarrays-with-k-different-integers) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/codewithnikunj/DSA-/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1929-concatenation-of-array](https://github.com/codewithnikunj/DSA-/tree/master/1929-concatenation-of-array) |
+| [3875-construct-uniform-parity-array-i](https://github.com/codewithnikunj/DSA-/tree/master/3875-construct-uniform-parity-array-i) |
 ## Simulation
 |  |
 | ------- |
@@ -78,6 +79,7 @@ Share the progress in the data structure
 | [0189-rotate-array](https://github.com/codewithnikunj/DSA-/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/codewithnikunj/DSA-/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/codewithnikunj/DSA-/tree/master/0509-fibonacci-number) |
+| [3875-construct-uniform-parity-array-i](https://github.com/codewithnikunj/DSA-/tree/master/3875-construct-uniform-parity-array-i) |
 ## Two Pointers
 |  |
 | ------- |
