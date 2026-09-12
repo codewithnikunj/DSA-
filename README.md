@@ -14,6 +14,7 @@ Share the progress in the data structure
 | [0035-search-insert-position](https://github.com/codewithnikunj/DSA-/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/codewithnikunj/DSA-/tree/master/0053-maximum-subarray) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/codewithnikunj/DSA-/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0118-pascals-triangle](https://github.com/codewithnikunj/DSA-/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/codewithnikunj/DSA-/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/codewithnikunj/DSA-/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/codewithnikunj/DSA-/tree/master/0162-find-peak-element) |
@@ -154,6 +155,7 @@ Share the progress in the data structure
 | ------- |
 | [0053-maximum-subarray](https://github.com/codewithnikunj/DSA-/tree/master/0053-maximum-subarray) |
 | [0115-distinct-subsequences](https://github.com/codewithnikunj/DSA-/tree/master/0115-distinct-subsequences) |
+| [0118-pascals-triangle](https://github.com/codewithnikunj/DSA-/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/codewithnikunj/DSA-/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0509-fibonacci-number](https://github.com/codewithnikunj/DSA-/tree/master/0509-fibonacci-number) |
 | [0940-distinct-subsequences-ii](https://github.com/codewithnikunj/DSA-/tree/master/0940-distinct-subsequences-ii) |
