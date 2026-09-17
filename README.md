@@ -82,6 +82,7 @@ Share the progress in the data structure
 | [0796-rotate-string](https://github.com/codewithnikunj/DSA-/tree/master/0796-rotate-string) |
 | [0940-distinct-subsequences-ii](https://github.com/codewithnikunj/DSA-/tree/master/0940-distinct-subsequences-ii) |
 | [1021-remove-outermost-parentheses](https://github.com/codewithnikunj/DSA-/tree/master/1021-remove-outermost-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/codewithnikunj/DSA-/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Math
 |  |
 | ------- |
@@ -145,10 +146,12 @@ Share the progress in the data structure
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/codewithnikunj/DSA-/tree/master/0234-palindrome-linked-list) |
 | [1021-remove-outermost-parentheses](https://github.com/codewithnikunj/DSA-/tree/master/1021-remove-outermost-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/codewithnikunj/DSA-/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [1021-remove-outermost-parentheses](https://github.com/codewithnikunj/DSA-/tree/master/1021-remove-outermost-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/codewithnikunj/DSA-/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## String Matching
 |  |
 | ------- |
