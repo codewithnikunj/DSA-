@@ -29,6 +29,7 @@ Share the progress in the data structure
 | [0540-single-element-in-a-sorted-array](https://github.com/codewithnikunj/DSA-/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/codewithnikunj/DSA-/tree/master/0704-binary-search) |
 | [0992-subarrays-with-k-different-integers](https://github.com/codewithnikunj/DSA-/tree/master/0992-subarrays-with-k-different-integers) |
+| [1550-three-consecutive-odds](https://github.com/codewithnikunj/DSA-/tree/master/1550-three-consecutive-odds) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/codewithnikunj/DSA-/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1929-concatenation-of-array](https://github.com/codewithnikunj/DSA-/tree/master/1929-concatenation-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/codewithnikunj/DSA-/tree/master/2149-rearrange-array-elements-by-sign) |
