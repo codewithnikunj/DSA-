@@ -44,6 +44,7 @@ Share the progress in the data structure
 | ------- |
 | [1929-concatenation-of-array](https://github.com/codewithnikunj/DSA-/tree/master/1929-concatenation-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/codewithnikunj/DSA-/tree/master/2149-rearrange-array-elements-by-sign) |
+| [3498-reverse-degree-of-a-string](https://github.com/codewithnikunj/DSA-/tree/master/3498-reverse-degree-of-a-string) |
 ## Hash Table
 |  |
 | ------- |
@@ -86,6 +87,7 @@ Share the progress in the data structure
 | [0940-distinct-subsequences-ii](https://github.com/codewithnikunj/DSA-/tree/master/0940-distinct-subsequences-ii) |
 | [1021-remove-outermost-parentheses](https://github.com/codewithnikunj/DSA-/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/codewithnikunj/DSA-/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [3498-reverse-degree-of-a-string](https://github.com/codewithnikunj/DSA-/tree/master/3498-reverse-degree-of-a-string) |
 ## Math
 |  |
 | ------- |
