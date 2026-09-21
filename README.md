@@ -29,6 +29,7 @@ Share the progress in the data structure
 | [0540-single-element-in-a-sorted-array](https://github.com/codewithnikunj/DSA-/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/codewithnikunj/DSA-/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/codewithnikunj/DSA-/tree/master/0704-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/codewithnikunj/DSA-/tree/master/0875-koko-eating-bananas) |
 | [0992-subarrays-with-k-different-integers](https://github.com/codewithnikunj/DSA-/tree/master/0992-subarrays-with-k-different-integers) |
 | [1550-three-consecutive-odds](https://github.com/codewithnikunj/DSA-/tree/master/1550-three-consecutive-odds) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/codewithnikunj/DSA-/tree/master/1838-frequency-of-the-most-frequent-element) |
@@ -133,6 +134,7 @@ Share the progress in the data structure
 | [0268-missing-number](https://github.com/codewithnikunj/DSA-/tree/master/0268-missing-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/codewithnikunj/DSA-/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/codewithnikunj/DSA-/tree/master/0704-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/codewithnikunj/DSA-/tree/master/0875-koko-eating-bananas) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/codewithnikunj/DSA-/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Bit Manipulation
 |  |
