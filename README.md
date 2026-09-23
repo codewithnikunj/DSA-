@@ -151,6 +151,7 @@ Share the progress in the data structure
 ## Stack
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/codewithnikunj/DSA-/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/codewithnikunj/DSA-/tree/master/0234-palindrome-linked-list) |
 | [1021-remove-outermost-parentheses](https://github.com/codewithnikunj/DSA-/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/codewithnikunj/DSA-/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -188,6 +189,7 @@ Share the progress in the data structure
 ## Queue
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/codewithnikunj/DSA-/tree/master/0225-implement-stack-using-queues) |
 | [0387-first-unique-character-in-a-string](https://github.com/codewithnikunj/DSA-/tree/master/0387-first-unique-character-in-a-string) |
 ## Counting
 |  |
@@ -265,4 +267,8 @@ Share the progress in the data structure
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/codewithnikunj/DSA-/tree/master/0836-rectangle-overlap) |
+## Design
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/codewithnikunj/DSA-/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
