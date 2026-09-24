@@ -50,6 +50,7 @@ Share the progress in the data structure
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/codewithnikunj/DSA-/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/codewithnikunj/DSA-/tree/master/0013-roman-to-integer) |
 | [0141-linked-list-cycle](https://github.com/codewithnikunj/DSA-/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/codewithnikunj/DSA-/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/codewithnikunj/DSA-/tree/master/0169-majority-element) |
@@ -75,6 +76,7 @@ Share the progress in the data structure
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/codewithnikunj/DSA-/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/codewithnikunj/DSA-/tree/master/0014-longest-common-prefix) |
 | [0115-distinct-subsequences](https://github.com/codewithnikunj/DSA-/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/codewithnikunj/DSA-/tree/master/0125-valid-palindrome) |
@@ -94,6 +96,7 @@ Share the progress in the data structure
 | ------- |
 | [0007-reverse-integer](https://github.com/codewithnikunj/DSA-/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/codewithnikunj/DSA-/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/codewithnikunj/DSA-/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/codewithnikunj/DSA-/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/codewithnikunj/DSA-/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/codewithnikunj/DSA-/tree/master/0189-rotate-array) |
