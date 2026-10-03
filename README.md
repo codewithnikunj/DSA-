@@ -305,4 +305,8 @@ Share the progress in the data structure
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/codewithnikunj/DSA-/tree/master/0022-generate-parentheses) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/codewithnikunj/DSA-/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
