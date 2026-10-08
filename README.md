@@ -8,6 +8,7 @@ Share the progress in the data structure
 | ------- |
 | [0001-two-sum](https://github.com/codewithnikunj/DSA-/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/codewithnikunj/DSA-/tree/master/0004-median-of-two-sorted-arrays) |
+| [0011-container-with-most-water](https://github.com/codewithnikunj/DSA-/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/codewithnikunj/DSA-/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/codewithnikunj/DSA-/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/codewithnikunj/DSA-/tree/master/0027-remove-element) |
@@ -127,6 +128,7 @@ Share the progress in the data structure
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/codewithnikunj/DSA-/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/codewithnikunj/DSA-/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/codewithnikunj/DSA-/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0027-remove-element](https://github.com/codewithnikunj/DSA-/tree/master/0027-remove-element) |
@@ -272,6 +274,7 @@ Share the progress in the data structure
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/codewithnikunj/DSA-/tree/master/0011-container-with-most-water) |
 | [0678-valid-parenthesis-string](https://github.com/codewithnikunj/DSA-/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/codewithnikunj/DSA-/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/codewithnikunj/DSA-/tree/master/1838-frequency-of-the-most-frequent-element) |
