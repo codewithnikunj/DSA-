@@ -84,6 +84,7 @@ Share the progress in the data structure
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/codewithnikunj/DSA-/tree/master/0005-longest-palindromic-substring) |
 | [0012-integer-to-roman](https://github.com/codewithnikunj/DSA-/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/codewithnikunj/DSA-/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/codewithnikunj/DSA-/tree/master/0014-longest-common-prefix) |
@@ -128,6 +129,7 @@ Share the progress in the data structure
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/codewithnikunj/DSA-/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/codewithnikunj/DSA-/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/codewithnikunj/DSA-/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/codewithnikunj/DSA-/tree/master/0019-remove-nth-node-from-end-of-list) |
@@ -202,6 +204,7 @@ Share the progress in the data structure
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/codewithnikunj/DSA-/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/codewithnikunj/DSA-/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/codewithnikunj/DSA-/tree/master/0032-longest-valid-parentheses) |
 | [0053-maximum-subarray](https://github.com/codewithnikunj/DSA-/tree/master/0053-maximum-subarray) |
@@ -336,4 +339,8 @@ Share the progress in the data structure
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/codewithnikunj/DSA-/tree/master/0347-top-k-frequent-elements) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/codewithnikunj/DSA-/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
