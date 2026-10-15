@@ -41,6 +41,7 @@ Share the progress in the data structure
 | [1929-concatenation-of-array](https://github.com/codewithnikunj/DSA-/tree/master/1929-concatenation-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/codewithnikunj/DSA-/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/codewithnikunj/DSA-/tree/master/2778-sum-of-squares-of-special-elements) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/codewithnikunj/DSA-/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/codewithnikunj/DSA-/tree/master/3483-unique-3-digit-even-numbers) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/codewithnikunj/DSA-/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3875-construct-uniform-parity-array-i](https://github.com/codewithnikunj/DSA-/tree/master/3875-construct-uniform-parity-array-i) |
@@ -71,6 +72,7 @@ Share the progress in the data structure
 | [0451-sort-characters-by-frequency](https://github.com/codewithnikunj/DSA-/tree/master/0451-sort-characters-by-frequency) |
 | [0560-subarray-sum-equals-k](https://github.com/codewithnikunj/DSA-/tree/master/0560-subarray-sum-equals-k) |
 | [0992-subarrays-with-k-different-integers](https://github.com/codewithnikunj/DSA-/tree/master/0992-subarrays-with-k-different-integers) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/codewithnikunj/DSA-/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/codewithnikunj/DSA-/tree/master/3483-unique-3-digit-even-numbers) |
 ## Sorting
 |  |
@@ -351,4 +353,12 @@ Share the progress in the data structure
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/codewithnikunj/DSA-/tree/master/0005-longest-palindromic-substring) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/codewithnikunj/DSA-/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Segment Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/codewithnikunj/DSA-/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 <!---LeetCode Topics End-->
