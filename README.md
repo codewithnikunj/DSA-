@@ -40,6 +40,7 @@ Share the progress in the data structure
 | [1550-three-consecutive-odds](https://github.com/codewithnikunj/DSA-/tree/master/1550-three-consecutive-odds) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/codewithnikunj/DSA-/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1929-concatenation-of-array](https://github.com/codewithnikunj/DSA-/tree/master/1929-concatenation-of-array) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/codewithnikunj/DSA-/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/codewithnikunj/DSA-/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/codewithnikunj/DSA-/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/codewithnikunj/DSA-/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
@@ -88,6 +89,7 @@ Share the progress in the data structure
 | [0349-intersection-of-two-arrays](https://github.com/codewithnikunj/DSA-/tree/master/0349-intersection-of-two-arrays) |
 | [0451-sort-characters-by-frequency](https://github.com/codewithnikunj/DSA-/tree/master/0451-sort-characters-by-frequency) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/codewithnikunj/DSA-/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/codewithnikunj/DSA-/tree/master/2089-find-target-indices-after-sorting-array) |
 ## String
 |  |
 | ------- |
@@ -174,6 +176,7 @@ Share the progress in the data structure
 | [0875-koko-eating-bananas](https://github.com/codewithnikunj/DSA-/tree/master/0875-koko-eating-bananas) |
 | [1539-kth-missing-positive-number](https://github.com/codewithnikunj/DSA-/tree/master/1539-kth-missing-positive-number) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/codewithnikunj/DSA-/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/codewithnikunj/DSA-/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Bit Manipulation
 |  |
 | ------- |
