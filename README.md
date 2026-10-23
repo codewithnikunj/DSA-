@@ -48,6 +48,7 @@ Share the progress in the data structure
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/codewithnikunj/DSA-/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/codewithnikunj/DSA-/tree/master/3483-unique-3-digit-even-numbers) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/codewithnikunj/DSA-/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/codewithnikunj/DSA-/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3875-construct-uniform-parity-array-i](https://github.com/codewithnikunj/DSA-/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/codewithnikunj/DSA-/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3903-smallest-stable-index-i](https://github.com/codewithnikunj/DSA-/tree/master/3903-smallest-stable-index-i) |
@@ -189,6 +190,7 @@ Share the progress in the data structure
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/codewithnikunj/DSA-/tree/master/0268-missing-number) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/codewithnikunj/DSA-/tree/master/3644-maximum-k-to-sort-a-permutation) |
 ## Trie
 |  |
 | ------- |
