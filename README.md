@@ -123,6 +123,7 @@ Share the progress in the data structure
 | [0940-distinct-subsequences-ii](https://github.com/codewithnikunj/DSA-/tree/master/0940-distinct-subsequences-ii) |
 | [1021-remove-outermost-parentheses](https://github.com/codewithnikunj/DSA-/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/codewithnikunj/DSA-/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [2409-count-days-spent-together](https://github.com/codewithnikunj/DSA-/tree/master/2409-count-days-spent-together) |
 | [3498-reverse-degree-of-a-string](https://github.com/codewithnikunj/DSA-/tree/master/3498-reverse-degree-of-a-string) |
 ## Math
 |  |
@@ -138,6 +139,7 @@ Share the progress in the data structure
 | [0268-missing-number](https://github.com/codewithnikunj/DSA-/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/codewithnikunj/DSA-/tree/master/0509-fibonacci-number) |
 | [0836-rectangle-overlap](https://github.com/codewithnikunj/DSA-/tree/master/0836-rectangle-overlap) |
+| [2409-count-days-spent-together](https://github.com/codewithnikunj/DSA-/tree/master/2409-count-days-spent-together) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/codewithnikunj/DSA-/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/codewithnikunj/DSA-/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3870-count-commas-in-range](https://github.com/codewithnikunj/DSA-/tree/master/3870-count-commas-in-range) |
