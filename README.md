@@ -21,6 +21,7 @@ Share the progress in the data structure
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/codewithnikunj/DSA-/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0118-pascals-triangle](https://github.com/codewithnikunj/DSA-/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/codewithnikunj/DSA-/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0136-single-number](https://github.com/codewithnikunj/DSA-/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/codewithnikunj/DSA-/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/codewithnikunj/DSA-/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/codewithnikunj/DSA-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -192,6 +193,7 @@ Share the progress in the data structure
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/codewithnikunj/DSA-/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/codewithnikunj/DSA-/tree/master/0268-missing-number) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/codewithnikunj/DSA-/tree/master/3644-maximum-k-to-sort-a-permutation) |
 ## Trie
