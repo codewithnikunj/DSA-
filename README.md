@@ -38,6 +38,7 @@ Share the progress in the data structure
 | [0875-koko-eating-bananas](https://github.com/codewithnikunj/DSA-/tree/master/0875-koko-eating-bananas) |
 | [0992-subarrays-with-k-different-integers](https://github.com/codewithnikunj/DSA-/tree/master/0992-subarrays-with-k-different-integers) |
 | [1331-rank-transform-of-an-array](https://github.com/codewithnikunj/DSA-/tree/master/1331-rank-transform-of-an-array) |
+| [1470-shuffle-the-array](https://github.com/codewithnikunj/DSA-/tree/master/1470-shuffle-the-array) |
 | [1539-kth-missing-positive-number](https://github.com/codewithnikunj/DSA-/tree/master/1539-kth-missing-positive-number) |
 | [1550-three-consecutive-odds](https://github.com/codewithnikunj/DSA-/tree/master/1550-three-consecutive-odds) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/codewithnikunj/DSA-/tree/master/1838-frequency-of-the-most-frequent-element) |
