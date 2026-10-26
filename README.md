@@ -17,6 +17,7 @@ Share the progress in the data structure
 | [0035-search-insert-position](https://github.com/codewithnikunj/DSA-/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/codewithnikunj/DSA-/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/codewithnikunj/DSA-/tree/master/0053-maximum-subarray) |
+| [0066-plus-one](https://github.com/codewithnikunj/DSA-/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/codewithnikunj/DSA-/tree/master/0073-set-matrix-zeroes) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/codewithnikunj/DSA-/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0118-pascals-triangle](https://github.com/codewithnikunj/DSA-/tree/master/0118-pascals-triangle) |
@@ -137,6 +138,7 @@ Share the progress in the data structure
 | [0013-roman-to-integer](https://github.com/codewithnikunj/DSA-/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/codewithnikunj/DSA-/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/codewithnikunj/DSA-/tree/master/0050-powx-n) |
+| [0066-plus-one](https://github.com/codewithnikunj/DSA-/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/codewithnikunj/DSA-/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/codewithnikunj/DSA-/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/codewithnikunj/DSA-/tree/master/0268-missing-number) |
