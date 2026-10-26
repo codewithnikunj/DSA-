@@ -124,6 +124,7 @@ Share the progress in the data structure
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/codewithnikunj/DSA-/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0940-distinct-subsequences-ii](https://github.com/codewithnikunj/DSA-/tree/master/0940-distinct-subsequences-ii) |
 | [1021-remove-outermost-parentheses](https://github.com/codewithnikunj/DSA-/tree/master/1021-remove-outermost-parentheses) |
+| [1221-split-a-string-in-balanced-strings](https://github.com/codewithnikunj/DSA-/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/codewithnikunj/DSA-/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2409-count-days-spent-together](https://github.com/codewithnikunj/DSA-/tree/master/2409-count-days-spent-together) |
 | [3498-reverse-degree-of-a-string](https://github.com/codewithnikunj/DSA-/tree/master/3498-reverse-degree-of-a-string) |
@@ -270,6 +271,7 @@ Share the progress in the data structure
 | [0387-first-unique-character-in-a-string](https://github.com/codewithnikunj/DSA-/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/codewithnikunj/DSA-/tree/master/0451-sort-characters-by-frequency) |
 | [0992-subarrays-with-k-different-integers](https://github.com/codewithnikunj/DSA-/tree/master/0992-subarrays-with-k-different-integers) |
+| [1221-split-a-string-in-balanced-strings](https://github.com/codewithnikunj/DSA-/tree/master/1221-split-a-string-in-balanced-strings) |
 ## Linked List
 |  |
 | ------- |
@@ -313,6 +315,7 @@ Share the progress in the data structure
 | [0011-container-with-most-water](https://github.com/codewithnikunj/DSA-/tree/master/0011-container-with-most-water) |
 | [0678-valid-parenthesis-string](https://github.com/codewithnikunj/DSA-/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/codewithnikunj/DSA-/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1221-split-a-string-in-balanced-strings](https://github.com/codewithnikunj/DSA-/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/codewithnikunj/DSA-/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/codewithnikunj/DSA-/tree/master/3723-maximize-sum-of-squares-of-digits) |
 ## Prefix Sum
