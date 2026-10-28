@@ -40,6 +40,7 @@ Share the progress in the data structure
 | [0875-koko-eating-bananas](https://github.com/codewithnikunj/DSA-/tree/master/0875-koko-eating-bananas) |
 | [0992-subarrays-with-k-different-integers](https://github.com/codewithnikunj/DSA-/tree/master/0992-subarrays-with-k-different-integers) |
 | [1331-rank-transform-of-an-array](https://github.com/codewithnikunj/DSA-/tree/master/1331-rank-transform-of-an-array) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/codewithnikunj/DSA-/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1470-shuffle-the-array](https://github.com/codewithnikunj/DSA-/tree/master/1470-shuffle-the-array) |
 | [1539-kth-missing-positive-number](https://github.com/codewithnikunj/DSA-/tree/master/1539-kth-missing-positive-number) |
 | [1550-three-consecutive-odds](https://github.com/codewithnikunj/DSA-/tree/master/1550-three-consecutive-odds) |
@@ -190,6 +191,7 @@ Share the progress in the data structure
 | [0540-single-element-in-a-sorted-array](https://github.com/codewithnikunj/DSA-/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/codewithnikunj/DSA-/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/codewithnikunj/DSA-/tree/master/0875-koko-eating-bananas) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/codewithnikunj/DSA-/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1539-kth-missing-positive-number](https://github.com/codewithnikunj/DSA-/tree/master/1539-kth-missing-positive-number) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/codewithnikunj/DSA-/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/codewithnikunj/DSA-/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -367,6 +369,7 @@ Share the progress in the data structure
 | ------- |
 | [0048-rotate-image](https://github.com/codewithnikunj/DSA-/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/codewithnikunj/DSA-/tree/master/0073-set-matrix-zeroes) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/codewithnikunj/DSA-/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 ## Backtracking
 |  |
 | ------- |
