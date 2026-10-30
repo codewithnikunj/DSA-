@@ -111,6 +111,7 @@ Share the progress in the data structure
 | [0020-valid-parentheses](https://github.com/codewithnikunj/DSA-/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/codewithnikunj/DSA-/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/codewithnikunj/DSA-/tree/master/0032-longest-valid-parentheses) |
+| [0058-length-of-last-word](https://github.com/codewithnikunj/DSA-/tree/master/0058-length-of-last-word) |
 | [0115-distinct-subsequences](https://github.com/codewithnikunj/DSA-/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/codewithnikunj/DSA-/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/codewithnikunj/DSA-/tree/master/0151-reverse-words-in-a-string) |
