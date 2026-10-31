@@ -144,6 +144,7 @@ Share the progress in the data structure
 | [0069-sqrtx](https://github.com/codewithnikunj/DSA-/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/codewithnikunj/DSA-/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/codewithnikunj/DSA-/tree/master/0268-missing-number) |
+| [0367-valid-perfect-square](https://github.com/codewithnikunj/DSA-/tree/master/0367-valid-perfect-square) |
 | [0509-fibonacci-number](https://github.com/codewithnikunj/DSA-/tree/master/0509-fibonacci-number) |
 | [0836-rectangle-overlap](https://github.com/codewithnikunj/DSA-/tree/master/0836-rectangle-overlap) |
 | [2409-count-days-spent-together](https://github.com/codewithnikunj/DSA-/tree/master/2409-count-days-spent-together) |
@@ -189,6 +190,7 @@ Share the progress in the data structure
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/codewithnikunj/DSA-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/codewithnikunj/DSA-/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/codewithnikunj/DSA-/tree/master/0349-intersection-of-two-arrays) |
+| [0367-valid-perfect-square](https://github.com/codewithnikunj/DSA-/tree/master/0367-valid-perfect-square) |
 | [0540-single-element-in-a-sorted-array](https://github.com/codewithnikunj/DSA-/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/codewithnikunj/DSA-/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/codewithnikunj/DSA-/tree/master/0875-koko-eating-bananas) |
