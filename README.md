@@ -41,6 +41,7 @@ Share the progress in the data structure
 | [0992-subarrays-with-k-different-integers](https://github.com/codewithnikunj/DSA-/tree/master/0992-subarrays-with-k-different-integers) |
 | [1331-rank-transform-of-an-array](https://github.com/codewithnikunj/DSA-/tree/master/1331-rank-transform-of-an-array) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/codewithnikunj/DSA-/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/codewithnikunj/DSA-/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1470-shuffle-the-array](https://github.com/codewithnikunj/DSA-/tree/master/1470-shuffle-the-array) |
 | [1539-kth-missing-positive-number](https://github.com/codewithnikunj/DSA-/tree/master/1539-kth-missing-positive-number) |
 | [1550-three-consecutive-odds](https://github.com/codewithnikunj/DSA-/tree/master/1550-three-consecutive-odds) |
@@ -100,6 +101,7 @@ Share the progress in the data structure
 | [0349-intersection-of-two-arrays](https://github.com/codewithnikunj/DSA-/tree/master/0349-intersection-of-two-arrays) |
 | [0451-sort-characters-by-frequency](https://github.com/codewithnikunj/DSA-/tree/master/0451-sort-characters-by-frequency) |
 | [1331-rank-transform-of-an-array](https://github.com/codewithnikunj/DSA-/tree/master/1331-rank-transform-of-an-array) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/codewithnikunj/DSA-/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/codewithnikunj/DSA-/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/codewithnikunj/DSA-/tree/master/2089-find-target-indices-after-sorting-array) |
 ## String
@@ -176,6 +178,7 @@ Share the progress in the data structure
 | [0344-reverse-string](https://github.com/codewithnikunj/DSA-/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/codewithnikunj/DSA-/tree/master/0349-intersection-of-two-arrays) |
 | [0876-middle-of-the-linked-list](https://github.com/codewithnikunj/DSA-/tree/master/0876-middle-of-the-linked-list) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/codewithnikunj/DSA-/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/codewithnikunj/DSA-/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/codewithnikunj/DSA-/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Binary Search
@@ -197,6 +200,7 @@ Share the progress in the data structure
 | [0704-binary-search](https://github.com/codewithnikunj/DSA-/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/codewithnikunj/DSA-/tree/master/0875-koko-eating-bananas) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/codewithnikunj/DSA-/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/codewithnikunj/DSA-/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1539-kth-missing-positive-number](https://github.com/codewithnikunj/DSA-/tree/master/1539-kth-missing-positive-number) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/codewithnikunj/DSA-/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/codewithnikunj/DSA-/tree/master/2089-find-target-indices-after-sorting-array) |
