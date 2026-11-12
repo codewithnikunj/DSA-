@@ -36,6 +36,7 @@ Share the progress in the data structure
 | [0485-max-consecutive-ones](https://github.com/codewithnikunj/DSA-/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/codewithnikunj/DSA-/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/codewithnikunj/DSA-/tree/master/0560-subarray-sum-equals-k) |
+| [0645-set-mismatch](https://github.com/codewithnikunj/DSA-/tree/master/0645-set-mismatch) |
 | [0704-binary-search](https://github.com/codewithnikunj/DSA-/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/codewithnikunj/DSA-/tree/master/0875-koko-eating-bananas) |
 | [0992-subarrays-with-k-different-integers](https://github.com/codewithnikunj/DSA-/tree/master/0992-subarrays-with-k-different-integers) |
@@ -86,6 +87,7 @@ Share the progress in the data structure
 | [0424-longest-repeating-character-replacement](https://github.com/codewithnikunj/DSA-/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/codewithnikunj/DSA-/tree/master/0451-sort-characters-by-frequency) |
 | [0560-subarray-sum-equals-k](https://github.com/codewithnikunj/DSA-/tree/master/0560-subarray-sum-equals-k) |
+| [0645-set-mismatch](https://github.com/codewithnikunj/DSA-/tree/master/0645-set-mismatch) |
 | [0992-subarrays-with-k-different-integers](https://github.com/codewithnikunj/DSA-/tree/master/0992-subarrays-with-k-different-integers) |
 | [1331-rank-transform-of-an-array](https://github.com/codewithnikunj/DSA-/tree/master/1331-rank-transform-of-an-array) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/codewithnikunj/DSA-/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
@@ -101,6 +103,7 @@ Share the progress in the data structure
 | [0347-top-k-frequent-elements](https://github.com/codewithnikunj/DSA-/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/codewithnikunj/DSA-/tree/master/0349-intersection-of-two-arrays) |
 | [0451-sort-characters-by-frequency](https://github.com/codewithnikunj/DSA-/tree/master/0451-sort-characters-by-frequency) |
+| [0645-set-mismatch](https://github.com/codewithnikunj/DSA-/tree/master/0645-set-mismatch) |
 | [1331-rank-transform-of-an-array](https://github.com/codewithnikunj/DSA-/tree/master/1331-rank-transform-of-an-array) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/codewithnikunj/DSA-/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/codewithnikunj/DSA-/tree/master/1838-frequency-of-the-most-frequent-element) |
@@ -212,6 +215,7 @@ Share the progress in the data structure
 | ------- |
 | [0136-single-number](https://github.com/codewithnikunj/DSA-/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/codewithnikunj/DSA-/tree/master/0268-missing-number) |
+| [0645-set-mismatch](https://github.com/codewithnikunj/DSA-/tree/master/0645-set-mismatch) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/codewithnikunj/DSA-/tree/master/3644-maximum-k-to-sort-a-permutation) |
 ## Trie
 |  |
