@@ -52,6 +52,7 @@ Share the progress in the data structure
 | [1929-concatenation-of-array](https://github.com/codewithnikunj/DSA-/tree/master/1929-concatenation-of-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/codewithnikunj/DSA-/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/codewithnikunj/DSA-/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/codewithnikunj/DSA-/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/codewithnikunj/DSA-/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/codewithnikunj/DSA-/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/codewithnikunj/DSA-/tree/master/3483-unique-3-digit-even-numbers) |
@@ -111,6 +112,7 @@ Share the progress in the data structure
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/codewithnikunj/DSA-/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/codewithnikunj/DSA-/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/codewithnikunj/DSA-/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/codewithnikunj/DSA-/tree/master/2567-minimum-score-by-changing-two-elements) |
 ## String
 |  |
 | ------- |
@@ -349,6 +351,7 @@ Share the progress in the data structure
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/codewithnikunj/DSA-/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/codewithnikunj/DSA-/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/codewithnikunj/DSA-/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/codewithnikunj/DSA-/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/codewithnikunj/DSA-/tree/master/3723-maximize-sum-of-squares-of-digits) |
 ## Prefix Sum
 |  |
